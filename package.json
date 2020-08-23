@@ -1,0 +1,16 @@
+{
+  "name": "newjs",
+  "version": "1.0.0",
+  "description": "new js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pallavi",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.14.6"
+  },
+  "devDependencies": {}
+}
